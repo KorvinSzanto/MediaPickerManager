@@ -9,7 +9,7 @@
 "MediaPickerManager.cancel" = "Cancel";
 "MediaPickerManager.close" = "Close";
 "MediaPickerManager.take.photo" = "Take a picture";
-"MediaPickerManager.from.library" = "From the galery";
+"MediaPickerManager.from.library" = "From the gallery";
 "MediaPickerManager.take.video" = "Take a video";
 
 //Erreur
